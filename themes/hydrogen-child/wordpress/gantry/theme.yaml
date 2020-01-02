@@ -1,8 +1,8 @@
 details:
   name: Hydrogen Child
-  version: '@version@'
+  version: '5.4.32'
   icon: paper-plane
-  date: '@versiondate@'
+  date: 'January  2, 2020'
   author:
     name: RocketTheme, LLC
     email: support@rockettheme.com
